@@ -19,4 +19,6 @@ public interface ProductService {
 
     String deleteProductById(long id);
 
+    String deleteProduct(Long id);
+
 }
